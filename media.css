@@ -1,0 +1,45 @@
+    .header {
+        flex-direction: column;
+        align-items: flex-start; 
+        gap: 15px; 
+    }
+
+    .img {
+        width: 80px; 
+    }
+
+    .img2 {
+        width: 15px;
+    }
+
+    .text3 {
+        font-size: 30px; 
+    }
+
+    .text4 {
+        font-size: 18px; 
+    }
+
+    .main {
+        gap: 10px; 
+    }
+
+    .search {
+        flex-direction: row;
+        align-items: flex-start; 
+        gap: 10px; 
+    }
+    
+    .start {
+        width: 100%; 
+    }
+
+    .img3, .video {
+        flex-direction: column; 
+        gap: 20px;
+    }
+
+    .vid {
+        width: 100%;
+        border-radius: 5px; 
+    }

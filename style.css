@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 30px;
+    align-items: center;
+}
+.img{
+    width: 100px;
+}
+.img2{
+    width: 20px;
+}
+.text{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+.table{
+    text-align: center;
+    border: 1px solid blueviolet;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+}
+.table2{
+    text-align: center;
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+}
+.text1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    color: blueviolet;
+    margin-top: 10px;
+}
+.text2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    color: white;
+    margin-top: 10px;
+}
+
+.privet {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    align-items: center;
+}
+
+.search {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+    justify-content: flex-end;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.text3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+}
+.start{
+    text-align: center;
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    color: aliceblue; 
+}
+.text4{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+.img3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 30px;
+}
+.video{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; 
+    margin-top: 30px;
+}
+.vid{
+    width: 900px;
+    border-radius: 10px;
+}
+
